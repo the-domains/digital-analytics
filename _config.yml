@@ -2,12 +2,13 @@ name: digital analytics
 favicon: null
 layout_spectrum: 0.7496887680608779
 typography_spectrum: 0.13997723278589547
+title: digital analytics
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-62726217-2
   facebook: null
   twitter: null
 opengraph:
