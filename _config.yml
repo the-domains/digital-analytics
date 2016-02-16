@@ -1,7 +1,7 @@
 name: digital analytics
 favicon: null
-layout_spectrum: 0.7496887680608779
-typography_spectrum: 0.13997723278589547
+layout_spectrum: 0.74907
+typography_spectrum: 0.19594
 title: digital analytics
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8602399465162307
-  lightness: 0.012528392719104886
-  saturation: 0.15423701843246818
+    - '#149c98'
+    - '#d45202'
+    - '#e99317'
+    - '#084541'
+    - '#31e7ea'
+  brandStrength: 0.625
+  lightness: 0.0625
+  saturation: 0.3125
   rhythmicContrast: 0.35500365402549505
 purpose: []
