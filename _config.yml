@@ -1,7 +1,7 @@
 name: digital analytics
 favicon: null
-layout_spectrum: 0.49637
-typography_spectrum: 0.36557
+layout_spectrum: 1
+typography_spectrum: 0.59562
 title: DIGITAL ANALYTICS
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#e99317'
     - '#084541'
     - '#31e7ea'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
