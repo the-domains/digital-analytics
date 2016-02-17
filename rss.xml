@@ -4,11 +4,25 @@
         <description><![CDATA[DIGITAL ANALYTICS]]></description>
         <link>http://karlnorling.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 18:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 21:13:07 GMT</lastBuildDate>
         <atom:link href="http://karlnorling.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Understanding Bayes: How to become a Bayesian in eight easy steps]]></title>
+            <description><![CDATA[<article><h1>Understanding Bayes: How to become a Bayesian in eight easy steps</h1><p>How to become a Bayesian in eight easy steps: An annotated reading list (TLDR: We wrote an annotated reading list to get you started in learning Bayesian statistics. Here is the paper.) It can be hard to know where to start when you want to learn about Bayesian statistics.</p><img src="https://nicebrain.files.wordpress.com/2016/02/readinglist.png?w=700"></article>]]></description>
+            <link>http://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/</link>
+            <guid isPermaLink="false">a601aeca-18fb-4fae-a421-c3a5b6a78038</guid>
+            <pubDate>Wed, 17 Feb 2016 21:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Email Deliverability Success for Small Business Decoded]]></title>
+            <description><![CDATA[<article><h1>Email Deliverability Success for Small Business Decoded</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/658cf9f8c2c4fa78499441b1753c68b853a75692.png"></article>]]></description>
+            <link>http://blog.crazyegg.com/2016/02/17/email-deliverability-success-decoded/</link>
+            <guid isPermaLink="false">01842c64-863f-4bad-ad2c-7066aaf4c5c2</guid>
+            <pubDate>Wed, 17 Feb 2016 21:12:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tutorial: From 0 to R with Google Analytics - Analytics Demystified]]></title>
-            <description><![CDATA[<article><h1>Tutorial: From 0 to R with Google Analytics - Analytics Demystified</h1><p>(This post has a lengthy preamble. If you want to dive right in, skip down to Step 1.) R is like a bicycle. Or, rather, learning R is like learning to ride a bicycle. Someone once pointed out to me how hard it is to explain to someone how to ride a bicycle once you've learned to ride ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac4779765aff99e337d6fc2428df66b648c6be2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tutorial: From 0 to R with Google Analytics - Analytics Demystified</h1><p>(This post has a lengthy preamble. If you want to dive right in, skip down to Step 1.) R is like a bicycle. Or, rather, learning R is like learning to ride a bicycle. Someone once pointed out to me how hard it is to explain to someone how to ride a bicycle once you've learned to ride ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b60cf71ec75c0dc565d2f29d6c2dfb7be0c17309.jpg"></article>]]></description>
             <link>http://analyticsdemystified.com/analysis/tutorial_pulling_google_analytics_data_with_r/</link>
             <guid isPermaLink="false">232ffefa-1804-42d1-8303-2dd1ad5419cd</guid>
             <pubDate>Wed, 17 Feb 2016 18:29:11 GMT</pubDate>
