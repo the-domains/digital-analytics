@@ -6,21 +6,21 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 1
   lightness: 1
   brandColors:
     - '#010100'
     - '#F34308'
     - '#912805'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -29,11 +29,11 @@ analytics:
   twitter: null
   google: UA-62726217-2
   facebook: null
-favicon: null
 name: digital analytics
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5412186
-layout_spectrum: 0.6792115
+layout_spectrum: 1
