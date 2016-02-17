@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-62726217-2
   facebook: null
-name: digital analytics
 favicon: null
+name: digital analytics
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5328836
-layout_spectrum: 0.6247892
+layout_spectrum: 0.4055649
