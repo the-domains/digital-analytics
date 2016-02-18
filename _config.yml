@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.505059
-  brandStrength: 0
+  saturation: 0.3988196
+  brandStrength: 0.1677909
   lightness: 0.7394603
   brandColors:
     - '#FFFFFF'
@@ -22,7 +22,7 @@ color:
     - '#221E1F'
     - '#434041'
     - '#C7C5C6'
-  rhythmicContrast: 0.5126476
+  rhythmicContrast: 0.6424958
 cta:
   bucket: null
   version: null
@@ -32,10 +32,10 @@ analytics:
   google: UA-62726217-2
   facebook: null
 favicon: null
-name: digital analytics
+name: Karlnorling.com
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5328836
-layout_spectrum: 0.4055649
+layout_spectrum: 0.5210792
