@@ -4,8 +4,29 @@
         <description><![CDATA[DIGITAL ANALYTICS]]></description>
         <link>http://karlnorling.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 21:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 21:30:14 GMT</lastBuildDate>
         <atom:link href="http://karlnorling.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction to Machine Learning with Web Analytics: Random Forests and K-Means]]></title>
+            <description><![CDATA[<article><h1>Introduction to Machine Learning with Web Analytics: Random Forests and K-Means</h1><p>I've just come back from #MeasureCamp, where I attended some great talks: on hierarchical models; the process of analysis; a demo of Hadoop processing Adobe Analytics hits; web scraping with Python and how machine learning will affect marketing in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0aae9ac9db691f83c35de0299f95c14e6b38fddc.png"></article>]]></description>
+            <link>http://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means</link>
+            <guid isPermaLink="false">4197f192-fdb0-47e5-841f-46d3b4704d81</guid>
+            <pubDate>Sat, 12 Mar 2016 21:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Analytics and Google Tag Manager Debugging Tools]]></title>
+            <description><![CDATA[<article><h1>Google Analytics and Google Tag Manager Debugging Tools</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ace69c9d505fcc5ff1426e2e2361566ceca1048.jpg"></article>]]></description>
+            <link>http://karlnorling.com/google-analytics-and-google-tag-manager-debugging-tools/index.html</link>
+            <guid isPermaLink="false">0c2d2feb-dba0-4b66-bffe-260d62caa44a</guid>
+            <pubDate>Sat, 12 Mar 2016 21:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Urbanisation Continues - Modeling Regional Apartment Prices in Finland]]></title>
+            <description><![CDATA[<article><h1>Urbanisation Continues - Modeling Regional Apartment Prices in Finland</h1><p>Urbanisation Continues – Modeling Regional Apartment Prices in Finland</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01368ff55b2ff107970271652074e302ef09238c.png"></article>]]></description>
+            <link>http://karlnorling.com/urbanisation-continues-modeling-regional-apartment-prices/index.html</link>
+            <guid isPermaLink="false">7b1a60e0-96ab-4f4a-b145-7c9514550b81</guid>
+            <pubDate>Sat, 12 Mar 2016 21:29:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Email Deliverability Success for Small Business Decoded]]></title>
             <description><![CDATA[<article><h1>Email Deliverability Success for Small Business Decoded</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/658cf9f8c2c4fa78499441b1753c68b853a75692.png"></article>]]></description>
@@ -22,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[The nursery @ Centigo]]></title>
-            <description><![CDATA[<article><h1>The nursery @ Centigo</h1><p>We're still in the beginning of this era that started during the 70s and the change accelerates. We will not see the peek of impact in our lives for another twenty years. If the last twenty years have been an era a of "globalized efficiency" we believe that successful companies, while still continue to be efficient, to a much higher degree need to become more "dynamic".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4527afde762a8f501a1310e58fe0b390bc4b2504.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The nursery @ Centigo</h1><p>We're still in the beginning of this era that started during the 70s and the change accelerates. We will not see the peek of impact in our lives for another twenty years. If the last twenty years have been an era a of "globalized efficiency" we believe that successful companies, while still continue to be efficient, to a much higher degree need to become more "dynamic".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4f742baf33efe5f5698d17e6deee7d18b7db1b2.jpg"></article>]]></description>
             <link>http://www.thenursery.se/</link>
             <guid isPermaLink="false">0f6d09d4-9081-4ea4-833b-1a8e7c68dffb</guid>
             <pubDate>Tue, 16 Feb 2016 22:08:02 GMT</pubDate>
@@ -40,13 +61,6 @@
             <link>urn:uuid:3224050c-1f5f-412d-b074-4beeb0404bb3</link>
             <guid isPermaLink="false">9a66f3bc-1340-4e3b-9ef3-69e2913aaeda</guid>
             <pubDate>Tue, 16 Feb 2016 18:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First test post]]></title>
-            <description><![CDATA[<article><h1>First test post</h1><p>First post,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dae8e87b5a70e9fa05fc92cb30511ea47ab80469.jpg"></article>]]></description>
-            <link>http://karlnorling.com/423dc768-ca61-4ac7-91bb-4bbc6b7397c4/index.html</link>
-            <guid isPermaLink="false">423dc768-ca61-4ac7-91bb-4bbc6b7397c4</guid>
-            <pubDate>Tue, 16 Feb 2016 18:21:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
