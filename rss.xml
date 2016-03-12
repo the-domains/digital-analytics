@@ -4,8 +4,22 @@
         <description><![CDATA[DIGITAL ANALYTICS]]></description>
         <link>http://karlnorling.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 21:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 21:30:14 GMT</lastBuildDate>
         <atom:link href="http://karlnorling.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Install shiny server on Ubuntu ]]></title>
+            <description><![CDATA[<article><h1>Install shiny server on Ubuntu </h1><p>Contribute to r_quickstart development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f3665f1fc7b400416acdc0fa87894a39bc0da2.jpg"></article>]]></description>
+            <link>https://github.com/keberwein/r_quickstart</link>
+            <guid isPermaLink="false">9b4c55be-7126-4e30-b06e-310b834ad7b7</guid>
+            <pubDate>Sat, 12 Mar 2016 21:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Machine Learning with Web Analytics: Random Forests and K-Means]]></title>
+            <description><![CDATA[<article><h1>Introduction to Machine Learning with Web Analytics: Random Forests and K-Means</h1><p>I've just come back from #MeasureCamp, where I attended some great talks: on hierarchical models; the process of analysis; a demo of Hadoop processing Adobe Analytics hits; web scraping with Python and how machine learning will affect marketing in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0aae9ac9db691f83c35de0299f95c14e6b38fddc.png"></article>]]></description>
+            <link>http://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means</link>
+            <guid isPermaLink="false">4197f192-fdb0-47e5-841f-46d3b4704d81</guid>
+            <pubDate>Sat, 12 Mar 2016 21:29:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Analytics and Google Tag Manager Debugging Tools]]></title>
             <description><![CDATA[<article><h1>Google Analytics and Google Tag Manager Debugging Tools</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ace69c9d505fcc5ff1426e2e2361566ceca1048.jpg"></article>]]></description>
