@@ -1,5 +1,8 @@
+name: Karlnorling.com
+favicon: null
+layout_spectrum: 0.42061
+typography_spectrum: 0.15136
 title: DIGITAL ANALYTICS
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-62726217-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5614035
-  brandStrength: 0.3922306
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#F57921'
     - '#221E1F'
     - '#434041'
     - '#C7C5C6'
-  rhythmicContrast: 0.7957394
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-62726217-2
-  facebook: null
-favicon: null
-name: Karlnorling.com
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3524452
-layout_spectrum: 0.8865915
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
