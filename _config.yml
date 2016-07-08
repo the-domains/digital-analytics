@@ -1,6 +1,6 @@
 name: Karlnorling.com
 favicon: null
-layout_spectrum: 0.42061
+layout_spectrum: 1
 typography_spectrum: 0.15136
 title: DIGITAL ANALYTICS
 collections:
@@ -34,7 +34,7 @@ color:
     - '#221E1F'
     - '#434041'
     - '#C7C5C6'
-  brandStrength: 0.375
+  brandStrength: 0
   lightness: 0.6875
   saturation: 0.5
   rhythmicContrast: 0.5
